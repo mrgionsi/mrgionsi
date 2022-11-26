@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently acting as Solution Architect - Ericsson<br>👯 I’m looking to start making Company Web site<br>🤝 I’m looking for help with Agile methodology within the company<br>🌱 I’m currently learning DevOps culture and mobile application.<br>💬 Send me an email for any information - g.pasquariello96@gmail.com<br>⚡ Domotic system house - In Progress<br> Website: giovannipasquariello.dev
+🔭 I’m currently acting as Solution Architect - Ericsson<br>👯 I’m looking to start making Company Web site<br>🤝 I’m looking for help with Agile methodology within the company<br>🌱 I’m currently learning DevOps culture and mobile application.<br>💬 Send me an email for any information - g.pasquariello96@gmail.com<br>⚡ Domotic system house - In Progress<br> Website: https://giovannipasquariello.dev
 
 
 ## 🌐 Socials:
